@@ -1,0 +1,46 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+.venv/
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# IDE / Editor
+# ----------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# Logs & Data (optional)
+# ----------------------
+data/*.csv
+*.log
+
+# ----------------------
+# Environment variables
+# ----------------------
+.env
+
+# ----------------------
+# Build files
+# ----------------------
+build/
+dist/
+*.egg-info/
